@@ -1,5 +1,5 @@
 {
-  "name": "ex1",
+  "name": "ativ18",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "nodemon ./server.js"
   },
-  "author": "",
+  "author": "gabriel_souza",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.20.0",
